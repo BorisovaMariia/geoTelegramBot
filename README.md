@@ -11,3 +11,7 @@ Chat bot example:
 
 ![speech example](speech_part.JPG)
 
+
+Geo bot example:
+
+![geo example](geo_part.JPG)
